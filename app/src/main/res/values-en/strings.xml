@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp 2</string>
+    <string name="password_length">Password must not be less than 8 characters!</string>
+    <string name="register">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just code it!</string>
+    <string name="title_welcome_page">Welcome to Bangkit Story!</string>
+    <string name="title_register_page">Complete your data below</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_register">Register</string>
+    <string name="title_login_page">Welcome to Bangkit Story</string>
+    <string name="title_login">Login Form</string>
+    <string name="email">Email</string>
+    <string name="email_validation">Your email address is invalid!</string>
+    <string name="password">Password</string>
+    <string name="required_field">The field cannot be empty!</string>
+    <string name="name">Name User</string>
+    <string name="username">Hello, %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="story_detail">Story Detail</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="open_file">Open Image</string>
+    <string name="desc_story">Story Description</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="story">Story</string>
+    <string name="retry">Refresh</string>
+    <string name="language">Change Language</string>
+    <string name="map">map</string>
+    <string name="title_story">Story Title</string>
+    <string name="img_story">Story Image</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="empty_image_warning">Image not found</string>
+    <string name="location_message">Your location was successfully authorized</string>
+</resources>
